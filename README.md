@@ -9,6 +9,8 @@ Our demo shows the local `micro lm (Swen)` generating the first `8` words, follo
 
 ![Demo](./assets/figures/demo.gif)
 
+<!-- <img src="./assets/figures/demo.gif" width="800" /> -->
+
 # Model details
 
 The model shown in the demo is our `28M` version model with 512 `hidden_size` and 8 `layers`.
