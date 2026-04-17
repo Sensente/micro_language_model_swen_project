@@ -5,9 +5,9 @@ For more information, please refer to our [paper]().
 
 # Demo
 
-Our demo showing the local `micro lm (Swen)` generated the first `8` words, then `gpt-4o` followed the prefix to finish the answer.
+Our demo shows the local `micro lm (Swen)` generating the first `8` words, followed by `gpt-4o`, which completes the response from that prefix.
 
-<video src="./assests/figures/demo.gif" controls width="800"></video>
+![Demo](./assets/figures/demo.gif)
 
 # Model details
 
