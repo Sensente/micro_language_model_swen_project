@@ -84,5 +84,12 @@ The backend first runs local decoding until it reaches at least 8 words. It then
 If you use this codebase, or our idea inspires your work, welcome cite:
 
 ```bibtex
-@inproceedings{
+@misc{cheng2026microlanguagemodelsenable,
+      title={Micro Language Models Enable Instant Responses}, 
+      author={Wen Cheng and Tuochao Chen and Karim Helwani and Sriram Srinivasan and Luke Zettlemoyer and Shyamnath Gollakota},
+      year={2026},
+      eprint={2604.19642},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.19642}, 
 }
