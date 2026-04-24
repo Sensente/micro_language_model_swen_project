@@ -1,7 +1,7 @@
 # Micro Language Models Enable Instant Responses
 This is the official repo of our paper **Micro Language Models Enable Instant Responses**.
 
-For more information, please refer to our [paper]().
+For more information, please refer to our [paper](https://arxiv.org/abs/2604.19642).
 
 # Demo
 
