@@ -3,6 +3,8 @@ This is the official repo of our paper **Micro Language Models Enable Instant Re
 
 For more information, please refer to our [paper](https://arxiv.org/abs/2604.19642).
 
+[![Hits](https://hits.sh/github.com/Sensente/micro_language_model_swen_project.svg?view=total&label=visitors)](https://hits.sh/github.com/Sensente/micro_language_model_swen_project/)
+
 # Demo
 
 Our demo shows the local `micro lm (Swen)` generating the first `8` words, followed by `gpt-4o`, which completes the response from that prefix.
