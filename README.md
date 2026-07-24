@@ -17,11 +17,14 @@ Our demo shows the local `micro lm (Swen)` generating the first `8` words, follo
 
 The model shown in the demo is our `28M` version model with 512 `hidden_size` and 8 `layers`.
 
-## Checkpoint and tokenizer
+## Model Checkpoint
 
-The model checkpoint is available [here](./models/swen_28m.pth).
+Swen-28M is available on the Hugging Face Hub:
 
-Tokenizer files are available [here](./models/tokenizer).
+- [Sensente/Swen-28M](https://huggingface.co/Sensente/Swen-28M)
+
+The Hugging Face release is validated with Transformers 4.x and can be loaded
+using `AutoModelForCausalLM` with `trust_remote_code=True`.
 
 # Run the demo
 
